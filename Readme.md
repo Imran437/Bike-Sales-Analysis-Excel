@@ -22,7 +22,7 @@ The objective of this project is to answer the following business questions:
 
 ---
 
-# 📅 Dataset Information
+# Dataset Information
 
 The dataset covers the period:
 
@@ -39,7 +39,7 @@ The dataset covers the period:
 | 2015 | Full Year |
 | 2016 | January – July |
 
-> ⚠️ 2014 and 2016 contain partial-year data and should not be directly compared with full-year periods without considering this limitation.
+> 2014 and 2016 contain partial-year data and should not be directly compared with full-year periods without considering this limitation.
 
 ---
 
